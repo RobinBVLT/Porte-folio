@@ -1,0 +1,30 @@
+{
+  "personal": [
+    {
+      "id": "17540326415080ubovud2s",
+      "title": "porte folio",
+      "description": "porte folios pour chaque projet réaliser",
+      "technologies": [
+        "javascript",
+        "html/css"
+      ],
+      "projectLink": "",
+      "downloadLink": "",
+      "createdAt": "2025-08-01T07:17:21.508Z"
+    }
+  ],
+  "group": [
+    {
+      "id": "1754032113035kzto9gkd8",
+      "title": "MalefikIA",
+      "description": "jeux vidéo programmé en 1 semaine pour un hackathon en groupe",
+      "technologies": [
+        "C#",
+        "unity"
+      ],
+      "projectLink": "",
+      "downloadLink": "https://drive.google.com/drive/folders/1YiACGYe127DEd7OZ5u3xjZSAYg8GRIcz?usp=drive_link",
+      "createdAt": "2025-08-01T07:08:33.035Z"
+    }
+  ]
+}
